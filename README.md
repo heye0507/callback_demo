@@ -2,7 +2,7 @@
 
 ## A short Intro
 
-This is a demo code is made for Prof.CHEN Yingcong's research group students. It serves as a training callback template for students to collaborate. For demo video recordings, please see Notion page for details. 
+This is a demo code made for Prof.CHEN Yingcong's research group students. It serves as a training callback template for students to collaborate. For demo video recording, please see Notion page for details. 
 
 Part of the code is taken from Fastai 2019 part 2 course, where I was invited as an international fellow. 
 
